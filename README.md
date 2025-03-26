@@ -11,5 +11,5 @@ A simple React app that displays the current time and updates dynamically.
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/time-display-app.git
+git clone https://github.com/VinayakAllada/time-display-app.git
 cd time-display-app
